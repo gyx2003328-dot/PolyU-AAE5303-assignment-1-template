@@ -8,13 +8,13 @@
 ## 1. System Information
 
 **Laptop model:**  
-_[Your laptop model, e.g., Dell XPS 15, MacBook Pro M1, etc.]_
+LAPTOP-3QI18VGT XiaoXinPro 14|AH10
 
 **CPU / RAM:**  
-_[e.g., Intel Core i7-11800H, 16GB RAM]_
+Intel(R) Core(TM) Ultra 5 225H   1.70 GHz  32.0 GB
 
 **Host OS:**  
-_[Windows 11 / macOS / Ubuntu 22.04]_
+_[Windows 11]_
 
 **Linux/ROS environment type:**  
 _[Choose one:]_
@@ -22,7 +22,7 @@ _[Choose one:]_
 - [ ] WSL2 Ubuntu
 - [ ] Ubuntu in VM (UTM/VirtualBox/VMware/Parallels)
 - [ ] Docker container
-- [ ] Lab PC
+- [1] Lab PC
 - [ ] Remote Linux server
 
 ---
