@@ -33,6 +33,8 @@ _[Choose one:]_
 
 Describe briefly how you created/activated your Python environment:
 
+I created and activated a Python virtual environment using the venv module. In the project directory, I ran python3 -m venv .venv to create the virtual environment. I then activated it with source .venv/bin/activate. After activation, I installed the required dependencies by running pip install -r requirements.txt. The setup followed the standard procedure with no deviations from the default instructions.
+
 **Tool used:**  
 _[venv]_
 
